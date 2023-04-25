@@ -1,0 +1,3 @@
+Patterns Part 1
+
+From function Questions READ Math class and its functions
