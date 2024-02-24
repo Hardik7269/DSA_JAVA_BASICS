@@ -34,7 +34,7 @@ public class NQueen{
             if(isSafe(board, row, j)){
                 board[row][j] = 'Q';
                 nQueens(board, row+1);
-                board[row][j] = '.';
+                board[row][j] = ']';
             }
         }
     }
